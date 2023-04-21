@@ -2,7 +2,7 @@
 # dataset licenses
 Comprehensive  set of all useful ([non-vanity](https://en.wikipedia.org/wiki/License_proliferation#Vanity_licenses)) [licenses](https://en.wikipedia.org/wiki/Public_copyright_license), open and proprietary, superseded or current, **to indexing any kind of cultural work** (documents, softwares, etc.), that express a license,  or have a [generic implied license](https://en.wikipedia.org/wiki/Implied_license).
 
-See [dataset proposal #118 for CSV of licenses](https://github.com/datasets/registry/issues/118).
+See [SPDX licenses list](https://spdx.org/licenses/) as good reference, and origianal [dataset proposal #118 for CSV of licenses](https://github.com/datasets/registry/issues/118).
 
 <img align="right" width="460" src="http://addressforall.org/_private/estatuto-assets/image6.png">
 
