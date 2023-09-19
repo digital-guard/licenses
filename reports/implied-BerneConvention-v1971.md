@@ -1,5 +1,5 @@
 ---
-title: Implied licenses of works in Berna Convention signatory countries of 1971
+title: Implied licenses of works in Berne Convention signatory countries of 1971
 version: 1971
 version_status: REVISION
 endorsed_n: 1
@@ -62,7 +62,7 @@ Label  | Subject | Name and URL
 
 ## Conclusion
 
-Signatory countries of the Berna Convention must adopt  the *implied licence* expressed by Berne1971.
+Signatory countries of the Berne Convention must adopt  the *implied licence* expressed by Berne1971.
 
 As a general matter, this *implied licence* subsists in “original” works of *licensor* (author or holder of the copyright) as soon as the work (licensed material) is fixed in some tangible medium of expression. In this context, the *licensee* is a copy holder.
 
