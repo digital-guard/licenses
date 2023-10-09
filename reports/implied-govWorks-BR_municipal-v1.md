@@ -8,6 +8,7 @@ layout: page
 ---
 Summary:
  * Legal protection of datasets in the context of the provision of open data by the public administration, Brazil, municipal sphere. Limited scope ("data cut"), cadastral and geographic data.
+
  * In view of the evidence, and the interpretation of this report and its endorsing,  it can be concluded that the implied licenses (of datasets of the above context) arise in the [CC0 family](../data/families.csv), and, the dataset can be labelled by the [Public Domain Mark (**PDM**)](https://creativecommons.org/publicdomain/mark/1.0/).
 
 Other general legal context:
