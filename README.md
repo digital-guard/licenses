@@ -4,7 +4,7 @@ Comprehensive  set of all useful ([non-vanity](https://en.wikipedia.org/wiki/Lic
 
 See [SPDX licenses list](https://spdx.org/licenses/) as good reference, and origianal [dataset proposal #118 for CSV of licenses](https://github.com/datasets/registry/issues/118).
 
-<img align="right" width="460" src="http://addressforall.org/_private/estatuto-assets/image6.png">
+<img align="right" width="460" src="http://www.addressforall.org/_private/estatuto-assets/image6.png">
 
 ## Data
 Files described by [datapackage.json](./datapackage.json).
