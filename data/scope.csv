@@ -2,7 +2,7 @@ id_char,label,coverage,description
 g,generic,s+c+d,"Applies to any digital object characterized as creative work."
 s,software,s,"Applies to compiled software, its source-code, etc. Ref. Q207621."
 c,content,c,"Applies to content only ... Refs. WebContent, DigitalDocument, etc."
-d,data,d,"Applies to "data" only ... Refs. Dataset, Q42848, Q180160."
+d,data,d,"Applies to 'data' only ... Refs. Dataset, Q42848, Q180160."
 u,unstruct,d+c,"Unstructured data, amorphous content, ..."
 a,algorithm,s+c,"Valid for software and algorithm that is not a software, like cake recipe. Similar: methodological description, amorphous algorithm, etc."
 o,object,s+d,"Object-oriented method, that is a typical algorithm+dataset... Aplyes to big datasets (small datasets are software components)."
